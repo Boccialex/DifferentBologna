@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!-- App basic colors -->
+    <color name="colorPrimary">#B71C1C</color>
+    <color name="colorPrimaryDark">#B71C1C</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="colorAccent">#c8e8ff</color>
+    <color name="tan_background">#FFFFFF</color>
+
+    <!-- Fragments background colors -->
+    <color name="see_fragment">#FF8A80</color>
+    <color name="enjoy_fragment">#FF5252</color>
+    <color name="eat_fragment">#FF1744</color>
+    <color name="speak_fragment">#D50000</color>
+</resources>
