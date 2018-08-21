@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Different Bologna</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--Fragments' name strings-->
+    <string name="fragment_see">SEE</string>
+    <string name="fragment_enjoy">ENJOY</string>
+    <string name="fragment_eat">EAT</string>
+    <string name="fragment_speak">SPEAK</string>
+
+    <!--See Fragment items' strings-->
+    <string name="asinelli_tower">Asinelli Tower</string>
+    <string name="asinelli_description">The legend says "if you go on its top while studying, you won't graduate!Hint: recommended just to babies and workers"</string>
+    <string name="san_luca_portics">San Luca and the Portics</string>
+    <string name="san_luca_description">What about doing a 666 arcade staircase to get to a sanctuary on the hills of Bologna? Hint: mistery and fitness!</string>
+    <string name="cycling_tour_navile">Cycling tour on the Navile</string>
+    <string name="cycling_description">Avoid city smog and reach the center of Bologna in an alternative way, passing through city waterfalls, old factories and aquatic animals</string>
+    <string name="underground_bologna">Bologna Underground</string>
+    <string name="underground_description">Discover Bologna from the Middle Ages to the Second World War from its underground channels. Hint: see the Mario\'s Baths and Aposa</string>
+
+    <!--Enjoy Fragment items' strings-->
+    <string name="covo_club">Covo Club</string>
+    <string name="covo_cluc_description">Go there to listen good indie and rock music from the international scene. You can find intimate concerts, but unleashed!</string>
+    <string name="cassero">Cassero</string>
+    <string name="cassero_description">Once a salt warehouse, it\'s now the first recognized gay culture center in Italy and its nightclub offers fun and colorful pop and rock nights</string>
+    <string name="camera_a_sud">Camera a Sud </string>
+    <string name="camera_description">Spend an afternoon drinking a coffee, while you read some books taken from one of the shelves of this cute bar placed in the Jewish ghetto</string>
+    <string name="osteria_del_sole">Osteria del Sole</string>
+    <string name="osteria_sole_description">Open since 1465, this tavern is special because it is possible to drink there and bring your own food from home!</string>
+
+    <!-- Eat Fragment items' strings-->
+    <string name="vito">Vito</string>
+    <string name="vito_description"> This historic tavern has hosted in the 70s several Italian singers. Traditional bolognese menu, good prices and rustic atmosphere!</string>
+    <string name="babilonia">Babilonia</string>
+    <string name="babilonia_description">The king of oriental fast food in Bologna. Beloved by university students, offers Greek, Persian and kebab menus</string>
+    <string name="ruggine">Ruggine</string>
+    <string name="ruggine_description">A bit vintage and a bit industrial, this place ranges between good cocktails, original menus and tasty brunches. Really for viveurs!</string>
+    <string name="ponte_della_bionda">Ponte della Bionda</string>
+    <string name="ponte_bionda_description">Imagine tasting open air by the river the fattest cuisine prepared by grannies...It\'s not a joke! Ps: dances for the most daring</string>
+
+    <!-- Speak Fragment items' strings-->
+    <string name="getting_to_know">Getting to know</string>
+    <string name="getting_know_dialogue">- What\'s your name? \n- My name is Francesca</string>
+    <string name="at_the_grocery_shop">At the grocery shop</string>
+    <string name="grocery_dialogue">- Can I help you? \n- Yes I\'d like an orange and some carrots</string>
+    <string name="ask_directions">Ask for directions</string>
+<string name="ask_directions_dialogue">- Where is the Neptune fountain? \n- Go straight on Piazza Maggiore, \n Rizzoli Street and then turn left</string>
+    <string name="sayings">Sayings</string>
+    <string name="proverb">Cats children take mice \n(it means \"like father like son\")</string>
+</resources>
